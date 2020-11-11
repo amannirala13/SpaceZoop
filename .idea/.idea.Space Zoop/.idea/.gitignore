@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.Space Zoop.iml
+# Datasource local storage ignored files
+/../../../../../../../:\My Projects\TestProjects\Space Zoop\.idea\.idea.Space Zoop\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
